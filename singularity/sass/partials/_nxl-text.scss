@@ -20,7 +20,11 @@ h3 {
         font-size: 1.55em;
     }
 }
-
+.name-and-tagline > p {
+    @include breakpoint(60em) {
+        padding-top: 2em;
+    }
+}
 
 h4 {
     font: {
