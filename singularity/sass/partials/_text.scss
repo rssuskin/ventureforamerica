@@ -1,0 +1,131 @@
+main {
+    font: {
+        family: "Fira";
+        weight: 400;
+    }
+}
+
+p {
+    font: {
+        family: "Fira";
+        weight: 400;
+        size: 1.15em;
+    }
+    color: $text;
+    line-height: 1.25em;
+
+    @include breakpoint(30em) {
+        font-size: 1.3em;
+    }
+
+    @include breakpoint(45em) {
+        font-size: 1.35em;
+    }
+    @include breakpoint(60em) {
+        font-size: 1.35em;
+    }
+
+    b{
+        font-weight: 500;
+    }
+}
+
+a {
+    font-weight: 400;
+    text-decoration: none;
+    color: $link;
+    &:hover {
+        background-color: $link-bg;
+    }
+}
+
+
+.name-and-tagline > h1 {
+    color: $text;
+    font: {
+        family: "Fira";
+        weight: 700;
+        size: 1.6em;
+    }
+    @include breakpoint (30em) {
+        font-size: 1.7em;
+        line-height: 1.2em;
+    }
+
+    @include breakpoint (45em) {
+        font-size: 2em;
+    }
+    @include breakpoint (60em) {
+        font-size: 2.4em;
+        line-height: 1.4em;
+    }
+}
+
+
+.name-and-tagline > p {
+    @inlcude name-and-tagline-text;
+    color: $text;
+    font: {
+        weight: 300;
+        size: 1.3em;
+    }
+    
+    @include breakpoint (30em) {
+        font-size: 1.7em;
+        line-height: 1.2em;
+    }
+
+    @include breakpoint (45em) {
+        font-size: 1.7em;
+    }
+    @include breakpoint (60em) {
+        font-size: 1.8em;
+        line-height: 1.4em;
+    }
+}
+
+.copy > p:first-child {
+    font-weight: 500;
+    color: $text;
+    padding-bottom: 0.3em;
+
+    @include breakpoint(30em) {
+        font-size: 1.4em;
+    }
+
+    @include breakpoint(45em) {
+        font-size: 1.8em;
+    }
+    @include breakpoint(60em) {
+        font-size: 1.8em;
+    }
+}
+
+.twitter {
+    color: $twitter;
+}
+
+.facebook {
+    color: $facebook;
+    &:hover{
+        background-color: $facebook-bg;
+    }
+}
+
+.github {
+    color: $github;
+    &:hover{
+        background-color: $section-three;
+    }
+}
+
+#getintouch > p {
+    color: $text;
+    &:hover {
+        background-color: $bg;
+    }
+}
+
+
+
+

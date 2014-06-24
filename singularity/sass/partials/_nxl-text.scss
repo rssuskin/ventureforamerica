@@ -1,0 +1,113 @@
+h3 {
+    font: {
+        family: "Fira";
+        weight: 700;
+        size: 1.35em;
+    }
+
+    color: $text;
+    line-height: 1.45em;
+    padding: 1em 0 0 0;
+
+    @include breakpoint(30em) {
+        font-size: 1.5em;
+    }
+
+    @include breakpoint(45em) {
+        font-size: 1.55em;
+    }
+    @include breakpoint(60em) {
+        font-size: 1.55em;
+    }
+}
+
+
+h4 {
+    font: {
+        family: "Fira";
+        weight: 500;
+        size: 1.25em;
+    }
+
+    color: $text;
+    line-height: 1.35em;
+    padding: 1.5em 0 1.5em 0;
+
+    @include breakpoint(30em) {
+        font-size: 1.4em;
+    }
+
+    @include breakpoint(45em) {
+        font-size: 1.45em;
+    }
+    @include breakpoint(60em) {
+        font-size: 1.45em;
+    }
+}
+
+
+h5 {
+    font: {
+        family: "Fira";
+        weight: 500;
+        style: italic;
+        size: 1.25em;
+    }
+
+    color: $text;
+    line-height: 1.3em;
+
+    @include breakpoint(30em) {
+        font-size: 1.35em;
+    }
+
+    @include breakpoint(45em) {
+        font-size: 1.4em;
+    }
+    @include breakpoint(60em) {
+        font-size: 1.4em;
+    }
+}
+
+
+p {
+    font: {
+        family: "Fira";
+        weight: 400;
+        size: 1.15em;
+    }
+    color: $text;
+    line-height: 1.25;
+
+    @include breakpoint(30em) {
+        font-size: 1.2em;
+    }
+
+    @include breakpoint(45em) {
+        font-size: 1.25em;
+    }
+    @include breakpoint(60em) {
+        font-size: 1.25em;
+    }
+
+    b{
+        font-weight: 500;
+    }
+}
+
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+li { 
+    @extend p;
+    padding: 0.5em 0 0.5em 1em;
+    text-indent: -.7em;
+}
+
+li:before {
+    content: "• ";
+    color: $text; 
+}

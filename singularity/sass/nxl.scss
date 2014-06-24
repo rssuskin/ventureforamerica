@@ -1,0 +1,21 @@
+@import "singularitygs";
+@import "compass/reset";
+@import "partials/base";
+@import "partials/typefaces";
+@import "partials/colors";
+@import "partials/text";
+@import "partials/nxl-text";
+@import "partials/layout";
+
+
+// Setting custom vertical hero
+
+.vertical-hero {
+	@include breakpoint(60em) {
+		background-image: url('http://i3.minus.com/ibu7m3dxf2ZyIY.jpg')
+	}
+}
+
+main {
+	margin-bottom: 5em;
+}

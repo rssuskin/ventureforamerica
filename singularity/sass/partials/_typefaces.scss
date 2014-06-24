@@ -1,0 +1,97 @@
+// Fira
+
+// Light
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Light.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Light.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Light.woff') format('woff');
+  font: {
+    weight: 300;
+    style: normal;
+  }
+}
+
+// Light Italic
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-LightItalic.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-LightItalic.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-LightItalic.woff') format('woff');
+  font: {
+    weight: 300;
+    style: Italic;
+  }
+}
+
+// Regular
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Regular.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Regular.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Regular.woff') format('woff');
+  font: {
+    weight: 400;
+    style: normal;
+  }
+}
+
+// Regular Italic
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-RegularItalic.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-RegularItalic.woff') format('woff');
+  font: {
+    weight: 400;
+    style: italic;
+  }
+}
+
+// Medium
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Medium.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Medium.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Medium.woff') format('woff');
+  font: {
+    weight: 500;
+    style: normal;
+  }
+}
+
+// Medium Italic
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-MediumItalic.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-MediumItalic.woff') format('woff');
+  font: {
+    weight: 500;
+    style: italic;
+  }
+}
+
+// Bold
+
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Bold.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Bold.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-Bold.woff') format('woff');
+  font: {
+    weight: 700;
+    style: normal;
+  }
+}
+
+@font-face{
+  font-family: 'Fira';
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-BoldItalic.eot');
+  src: url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+  url('http://assets.labibrahman.com/typefaces/FiraSans/FiraSans-BoldItalic.woff') format('woff');
+  font: {
+    weight: 700;
+    style: italic;
+  }
+}

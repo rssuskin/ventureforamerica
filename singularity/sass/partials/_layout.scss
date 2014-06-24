@@ -1,0 +1,138 @@
+// Grids
+@include add-grid(4);
+@include add-grid(6 at 30em);
+@include add-grid(9 at 45em);
+@include add-grid(12 at 60em);
+
+// Transitions
+
+@import "compass/css3/transition";
+@import "compass/css3/filter";
+p, h1, h2, h3, h4, h5, img {
+    @include transition(all 200ms linear);
+}
+
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1000000em;
+    margin: 0 auto;
+    min-height: 100%;
+}
+
+
+$vertical-hero-width: 35%;
+
+.vertical-hero {
+    display: none;
+    @include breakpoint (60em) {
+        background-image: url('http://i4.minus.com/irHx8R01xbmjF.jpg');
+        display: block;
+        position: fixed;
+        background-repeat: no-repeat;
+        width: $vertical-hero-width;
+        background-size: cover;
+        filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+        -webkit-filter: grayscale(95%);
+        top: 0;
+        left: 0;
+        bottom: 0;
+        overflow: hidden;
+        z-index: 10;
+    }
+}
+
+main {
+    max-width: 75em;
+    min-height: 100%;
+    position: relative;
+    @include breakpoint(60em) {
+        width: 100 - $vertical-hero-width;
+        margin-left: $vertical-hero-width;
+    }
+}
+
+.name-and-tagline{
+    background-color: #e5e5e5;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+
+    @include breakpoint(60em) {
+        background-color: white;
+        padding-top: 4em;
+        text-align: left;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    @include breakpoint(92em) {
+        padding-top: 7em;
+    }
+}
+
+
+#tagline {
+    padding-top: 0.4em;
+    @include breakpoint(45em) {
+    }
+
+    @include breakpoint(60em) {
+        padding-top: 0em;
+    }
+}
+
+
+.copy {
+    margin: 0 auto;
+    width: 80%;
+
+    @include breakpoint(30em) {
+        padding-top: 1em;
+    }
+    @include breakpoint(45em) {
+        width: 65%;
+    }
+
+    @include breakpoint(60em) {
+        padding: 0em;
+    }
+}
+
+.copy, .name-and-tagline {
+    @include breakpoint(60em) {
+        width: 80%;
+    }
+
+    @include breakpoint(75em) {
+        width: 70%;
+    }
+
+    @include breakpoint(90em) {
+        width: 60%;
+    }
+}
+
+#getintouch > p {
+    display: inline-block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 2px solid $text;
+    padding: 0.5em;
+    padding-top: 0.7em;
+
+    &:hover{
+        background-color: $bg;
+    }
+}
+
+.non-existent-div {
+    position: absolute;
+}
