@@ -403,6 +403,17 @@ main {
   }
 }
 
+#hangout-with-fellow {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+.hangout-with-fellow-images {
+  margin-bottom: -1em;
+  padding: 0 1em 0 1em;
+  width: 200px;
+}
+
 .vertical-hero {
   display: none;
 }
