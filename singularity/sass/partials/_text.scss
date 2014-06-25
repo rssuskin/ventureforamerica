@@ -37,7 +37,7 @@ a {
 }
 
 
-.name-and-tagline > h1 {
+.landing-page-text > h1 {
     color: $text;
     font: {
         family: "Fira";
@@ -59,8 +59,8 @@ a {
 }
 
 
-.name-and-tagline > p {
-    @inlcude name-and-tagline-text;
+.landing-page-text > p {
+    @inlcude landing-page-text-text;
     color: $text;
     font: {
         weight: 400;

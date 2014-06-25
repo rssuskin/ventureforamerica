@@ -1,0 +1,1434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"dropbox",
+				"dropbox_settings"
+			],
+			[
+				"watch",
+				"watchmd"
+			],
+			[
+				"app",
+				"app_key"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"conver",
+				"convertToHTML"
+			],
+			[
+				"md",
+				"mdtohtml"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"fib",
+				"fibo_two"
+			],
+			[
+				"fi",
+				"fibo_two"
+			],
+			[
+				"lsit",
+				"list_of_characters_in_string_search_pattern"
+			],
+			[
+				"list",
+				"list_of_characters_in_string_being_searched"
+			],
+			[
+				"strin",
+				"string_search_pattern"
+			],
+			[
+				"d",
+				"dictionary_of_characters_in_string_being_searched"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"string",
+				"string_search_pattern"
+			],
+			[
+				"arr",
+				"array_of_lines"
+			],
+			[
+				"arra",
+				"array_of_lines"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"nam",
+				"name-and-tagline-text"
+			],
+			[
+				"vertical",
+				"vertical-hero-width"
+			],
+			[
+				"name",
+				"name-and-tagline"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"webk",
+				"webkit-autofill"
+			],
+			[
+				"web",
+				"webkit-appearance"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"style",
+				"stylesheets"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"we",
+				"webkit-appearance"
+			],
+			[
+				"sut",
+				"subtext"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"hn",
+				"hn-orange"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"paddn",
+				"padding-top"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"n",
+				"nth-child"
+			],
+			[
+				"votearr",
+				"votearrow"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"new",
+				"newrelic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n    <title>\n        Venture for America\n    </title>\n    <link rel='stylesheet' type='text/css' href='singularity/stylesheets/index.css'>\n    <link rel='icon' type='image/png' href=''>\n    <script type=\"text/javascript\" href='assets/javascripts/jquery.js'></script>\n    <script type=\"text/javascript\" href='js/index.js'></script>\n    <script>document.write('<script src=\"http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1\"></' + 'script>')</script>\n</head>\n\n<body>\n    <div class='container'>\n        <div class='vertical-hero'></div>\n        <main>\n\n            <div class='name-and-tagline'>\n                <img src='http://www.labibrahman.com/ventureforamerica/assets/images/vfa-logo-fullcolor.png'/>\n                <br>\n                <br>\n                <p>Cultivating Talent.</p>\n                <p>Growing Startups.</p>\n                <p>Revitalizing Cities.</p>\n                <br>\n                <br>\n                <h1>Come Build Something with Us.</h1>\n            </div>\n\n\n            <div class='copy'>\n                <div id='learnmore' class='clickable-div'><a href=\"/learnmore\"><p>Learn More</p></a></div>\n                <div id='supportvfa' class ='clickable-div'><a href=\"/support\"><p>Support VFA</p></a></div>\n                <div id='applynow' class='clickable-div'><a href=\"/apply\"><p>Apply Now</p></a></div>\n            </div>      \n        </main>\n    </div>\n</body>\n</html>\n",
+			"file": "index.html",
+			"file_size": 1479,
+			"file_write_time": 130481370120000000,
+			"settings":
+			{
+				"buffer_size": 1477,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 19 files for \"name-and-tagline\"\n\n/Users/labibrahman/Git/ventureforamerica/index.html:\n   17          <main>\n   18  \n   19:             <div class='name-and-tagline'>\n   20                  <img src='http://www.labibrahman.com/ventureforamerica/assets/images/vfa-logo-fullcolor.png'/>\n   21                  <br>\n\n/Users/labibrahman/Git/ventureforamerica/singularity/sass/partials/_colors.scss:\n    1  // Colors\n    2  $bg: 						#dedede;\n    3: $name-and-tagline-bg: 		#f5f5f5;\n    4  $text: 						#1b1b1b;\n    5  $header-text: 				#222222;\n\n/Users/labibrahman/Git/ventureforamerica/singularity/sass/partials/_layout.scss:\n   58  \n   59  \n   60: .name-and-tagline{\n   61      background-color: #e5e5e5;\n   62      padding-top: 2em;\n   ..\n   78  }\n   79  \n   80: .name-and-tagline > p {\n   81      @include breakpoint(60em) {\n   82          padding-top: 0.1em;\n   ..\n  116  }\n  117  \n  118: .copy, .name-and-tagline {\n  119      @include breakpoint(60em) {\n  120          width: 80%;\n\n/Users/labibrahman/Git/ventureforamerica/singularity/sass/partials/_nxl-text.scss:\n   21      }\n   22  }\n   23: .name-and-tagline > p {\n   24      @include breakpoint(60em) {\n   25          padding-top: 2em;\n\n/Users/labibrahman/Git/ventureforamerica/singularity/sass/partials/_text.scss:\n   38  \n   39  \n   40: .name-and-tagline > h1 {\n   41      color: $text;\n   42      font: {\n   ..\n   60  \n   61  \n   62: .name-and-tagline > p {\n   63:     @inlcude name-and-tagline-text;\n   64      color: $text;\n   65      font: {\n\n/Users/labibrahman/Git/ventureforamerica/singularity/stylesheets/index.css:\n  147  }\n  148  \n  149: .name-and-tagline > h1 {\n  150    color: #1b1b1b;\n  151    font-family: \"Fira\";\n  ...\n  154  }\n  155  @media (min-width: 30em) {\n  156:   .name-and-tagline > h1 {\n  157      font-size: 1.7em;\n  158      line-height: 1.2em;\n  ...\n  160  }\n  161  @media (min-width: 45em) {\n  162:   .name-and-tagline > h1 {\n  163      font-size: 2em;\n  164    }\n  165  }\n  166  @media (min-width: 60em) {\n  167:   .name-and-tagline > h1 {\n  168      font-size: 2.4em;\n  169      line-height: 1.4em;\n  ...\n  171  }\n  172  \n  173: .name-and-tagline > p {\n  174:   @inlcude name-and-tagline-text;\n  175    color: #1b1b1b;\n  176    font-weight: 400;\n  ...\n  178  }\n  179  @media (min-width: 30em) {\n  180:   .name-and-tagline > p {\n  181      font-size: 1.7em;\n  182      line-height: 1.2em;\n  ...\n  184  }\n  185  @media (min-width: 45em) {\n  186:   .name-and-tagline > p {\n  187      font-size: 1.7em;\n  188    }\n  189  }\n  190  @media (min-width: 60em) {\n  191:   .name-and-tagline > p {\n  192      font-size: 2.3em;\n  193      line-height: 1.4em;\n  ...\n  266  }\n  267  \n  268: .name-and-tagline {\n  269    background-color: #e5e5e5;\n  270    padding-top: 2em;\n  ...\n  274  }\n  275  @media (min-width: 60em) {\n  276:   .name-and-tagline {\n  277      background-color: white;\n  278      padding-top: 4em;\n  ...\n  283  }\n  284  @media (min-width: 92em) {\n  285:   .name-and-tagline {\n  286      padding-top: 7em;\n  287    }\n  ...\n  289  \n  290  @media (min-width: 60em) {\n  291:   .name-and-tagline > p {\n  292      padding-top: 0.1em;\n  293    }\n  ...\n  329  \n  330  @media (min-width: 60em) {\n  331:   .copy, .name-and-tagline {\n  332      width: 80%;\n  333    }\n  334  }\n  335  @media (min-width: 75em) {\n  336:   .copy, .name-and-tagline {\n  337      width: 70%;\n  338    }\n  339  }\n  340  @media (min-width: 90em) {\n  341:   .copy, .name-and-tagline {\n  342      width: 60%;\n  343    }\n\n/Users/labibrahman/Git/ventureforamerica/singularity/stylesheets/nxl.css:\n  148  }\n  149  \n  150: .name-and-tagline > h1 {\n  151    color: #1b1b1b;\n  152    font-family: \"Fira\";\n  ...\n  155  }\n  156  @media (min-width: 30em) {\n  157:   .name-and-tagline > h1 {\n  158      font-size: 1.7em;\n  159      line-height: 1.2em;\n  ...\n  161  }\n  162  @media (min-width: 45em) {\n  163:   .name-and-tagline > h1 {\n  164      font-size: 2em;\n  165    }\n  166  }\n  167  @media (min-width: 60em) {\n  168:   .name-and-tagline > h1 {\n  169      font-size: 2.4em;\n  170      line-height: 1.4em;\n  ...\n  172  }\n  173  \n  174: .name-and-tagline > p, .name-and-tagline > li {\n  175:   @inlcude name-and-tagline-text;\n  176    color: #1b1b1b;\n  177    font-weight: 400;\n  ...\n  179  }\n  180  @media (min-width: 30em) {\n  181:   .name-and-tagline > p, .name-and-tagline > li {\n  182      font-size: 1.7em;\n  183      line-height: 1.2em;\n  ...\n  185  }\n  186  @media (min-width: 45em) {\n  187:   .name-and-tagline > p, .name-and-tagline > li {\n  188      font-size: 1.7em;\n  189    }\n  190  }\n  191  @media (min-width: 60em) {\n  192:   .name-and-tagline > p, .name-and-tagline > li {\n  193      font-size: 2.3em;\n  194      line-height: 1.4em;\n  ...\n  242  \n  243  @media (min-width: 60em) {\n  244:   .name-and-tagline > p, .name-and-tagline > li {\n  245      padding-top: 2em;\n  246    }\n  ...\n  387  }\n  388  \n  389: .name-and-tagline {\n  390    background-color: #e5e5e5;\n  391    padding-top: 2em;\n  ...\n  395  }\n  396  @media (min-width: 60em) {\n  397:   .name-and-tagline {\n  398      background-color: white;\n  399      padding-top: 4em;\n  ...\n  404  }\n  405  @media (min-width: 92em) {\n  406:   .name-and-tagline {\n  407      padding-top: 7em;\n  408    }\n  ...\n  410  \n  411  @media (min-width: 60em) {\n  412:   .name-and-tagline > p, .name-and-tagline > li {\n  413      padding-top: 0.1em;\n  414    }\n  ...\n  450  \n  451  @media (min-width: 60em) {\n  452:   .copy, .name-and-tagline {\n  453      width: 80%;\n  454    }\n  455  }\n  456  @media (min-width: 75em) {\n  457:   .copy, .name-and-tagline {\n  458      width: 70%;\n  459    }\n  460  }\n  461  @media (min-width: 90em) {\n  462:   .copy, .name-and-tagline {\n  463      width: 60%;\n  464    }\n\n48 matches across 7 files\n",
+			"settings":
+			{
+				"buffer_size": 5744,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "singularity/sass/partials/_text.scss",
+			"settings":
+			{
+				"buffer_size": 1568,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "singularity/sass/partials/_interaction.scss",
+			"settings":
+			{
+				"buffer_size": 1130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "singularity/sass/partials/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 2570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "singularity/sass/index.scss",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/javascripts/jquery.js",
+			"settings":
+			{
+				"buffer_size": 95785,
+				"line_ending": "Unix",
+				"name": "/*! jQuery v1.11.1 | (c) 2005, 2014 jQuery Foundat"
+			}
+		},
+		{
+			"file": "singularity/sass/partials/_colors.scss",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax: js",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"se",
+				"Set Syntax: Sass"
+			],
+			[
+				"set",
+				"Set Syntax: CSS"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			]
+		],
+		"width": 655.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/labibrahman/Git/ventureforamerica/singularity/sass/nxl.scss",
+		"/Users/labibrahman/Git/ventureforamerica/singularity/sass/partials/_colors.scss",
+		"/Users/labibrahman/Git/ventureforamerica/singularity/config.rb",
+		"/Users/labibrahman/Git/spawncamping-octo-computing-machine/config.ru",
+		"/Users/labibrahman/Git/spawncamping-octo-computing-machine/~bash_profile",
+		"/Users/labibrahman/Git/gulpdrop/kotha_sync/html/drafts/nxlnotes.html",
+		"/Users/labibrahman/Git/gulpdrop/dropbox_settings/.dropbox_sync_data",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/dbox/node_modules/request/tests/test-redirect.js",
+		"/Users/labibrahman/Git/gulpdrop/lib/trigger.js",
+		"/Users/labibrahman/Git/gulpdrop/lib/gulpfile.js",
+		"/Users/labibrahman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/labibrahman/Git/gulpdrop/kotha_sync/markdown/passwordmanager.md",
+		"/Users/labibrahman/Git/gulpdrop/kotha_sync/markdown/passwordmanager.html",
+		"/Users/labibrahman/Git/gulpdrop/lib/dropbox.js",
+		"/Users/labibrahman/Git/gulpdrop/Cloud/passwordmanager.html",
+		"/Users/labibrahman/Git/gulpdrop/dropbox_settings/.dropbox_settings",
+		"/Users/labibrahman/.gitconfig",
+		"/Users/labibrahman/.gitconfic",
+		"/Users/labibrahman/.dropbox-settings",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/s3/node_modules/aws-sdk/lib/xml/node_parser.js",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/express/node_modules/debug/node.js",
+		"/Users/labibrahman/Git/gulpdrop/dropbox.js",
+		"/Users/labibrahman/Git/gulpdrop/content/passwordmanager.html",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/glob/examples/usr-local.js",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/chokidar/node_modules/fsevents/src/locking.cc",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/async/LICENSE",
+		"/Users/labibrahman/Git/gulpdrop/Procfile",
+		"/Users/labibrahman/Git/gulpdrop/content/markdown/passwordmanager.md",
+		"/Users/labibrahman/Git/gulpdrop/content/markdown/passwordmanager.html",
+		"/Users/labibrahman/Git/gulpdrop/content/passwordmanager.md",
+		"/Users/labibrahman/Git/gulpdrop/node_modules/.bin/gulp",
+		"/Users/labibrahman/Git/gulpdrop/package.json",
+		"/Users/labibrahman/.gitignore",
+		"/Users/labibrahman/.bash_profile",
+		"/Users/labibrahman/Git/gulpdrop/assets/passwordmanager.html",
+		"/Users/labibrahman/Git/gulpdrop/gulpfile.js",
+		"/Users/labibrahman/Git/gulpdrop/app.js",
+		"/Users/labibrahman/Git/nodedropblog/npm-debug.log",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/app.js",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/package.json",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_text.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_hemingway-text.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_colors.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_layout.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/nxl.html",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/hemingway.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/hemingway.html",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/nxl.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/stylesheets/hemingway.css",
+		"/Users/labibrahman/Git/labibrahman.github.io/CORS",
+		"/Users/labibrahman/Git/labibrahman.github.io/CNAME",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_nxl-text.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/README.md",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/javascripts/grid.min.js",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/javascripts/grid.js",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/index.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/index.html",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_typefaces.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_fonts.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/stylesheets/nxl.css",
+		"/Users/labibrahman/Git/markdown/.git/COMMIT_EDITMSG",
+		"/Users/labibrahman/Git/readHN/development/testpages/mainpage.html",
+		"/Users/labibrahman/Git/readHN/development/singularity/sass/partials/_colors.scss",
+		"/Users/labibrahman/Git/readHN/development/singularity/stylesheets/readhackernews.css",
+		"/Users/labibrahman/Git/readHN/development/testpages/computerscience.html",
+		"/Users/labibrahman/Git/readHN/development/assets/readHNextensionlogo.svg",
+		"/Users/labibrahman/Git/readHN/production/readhackernews.css",
+		"/Users/labibrahman/Git/readHN/development/singularity/sass/partials/_login.scss",
+		"/Users/labibrahman/Git/readHN/development/singularity/sass/partials/_titles.scss",
+		"/Users/labibrahman/Git/readHN/development/javascripts/swapcss.js",
+		"/Users/labibrahman/Git/readHN/development/singularity/sass/readhackernews.scss",
+		"/Users/labibrahman/Git/readHN/singularity/sass/partials/_base.scss",
+		"/Users/labibrahman/Git/readHN/index.html",
+		"/Users/labibrahman/Git/readHN/singularity/sass/partials/_layout.scss",
+		"/Users/labibrahman/Git/readHN/stylesheets/sass/bourbon/addons/_button.scss",
+		"/Users/labibrahman/Git/readHN/stylesheets/sass/bourbon/helpers/_linear-angle-parser.scss",
+		"/Users/labibrahman/Git/readHN/stylesheets/sass/bourbon/css3/_linear-gradient.scss",
+		"/Users/labibrahman/Git/readHN/development/singularity/config.rb",
+		"/Users/labibrahman/Git/projecteuler/3-findlargestprimefactor.py",
+		"/Users/labibrahman/Git/projecteuler/2-evenfibonaccinumbers.py",
+		"/Users/labibrahman/Git/projecteuler/1-multiplesof3and5.py",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_profile.scss",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_login.scss",
+		"/Users/labibrahman/Git/readhackernews/development/manifest.json",
+		"/Users/labibrahman/Desktop/DrChronoTest/problem1.py",
+		"/Users/labibrahman/Git/readhackernews/index.html",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/config.rb",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/partials/_base.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/stylesheets/style.css",
+		"/Users/labibrahman/Git/readhackernews/development/testpages/rappers.html",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_header.scss",
+		"/Users/labibrahman/Git/labibrahman.github.io/singularity/sass/style.scss",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/readhackernews.scss",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_inputs.scss",
+		"/Users/labibrahman/Git/readhackernews/development/testpages/mainpage.html",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_colors.scss",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/config.rb",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_titles.scss",
+		"/Users/labibrahman/Git/readhackernews/development/testpages/profile.html",
+		"/Users/labibrahman/Git/readhackernews/production/manifest.json",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_fonts.scss",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/stylesheets/readhackernews.css",
+		"/Users/labibrahman/Git/readhackernews/production/readhackernews.css",
+		"/Users/labibrahman/Git/readhackernews/development/testpages/newslogin.html",
+		"/Users/labibrahman/Git/readhackernews/development/javascripts/swapcss.js",
+		"/Users/labibrahman/Git/readhackernews/production/javascripts/swapcss.js",
+		"/Users/labibrahman/Git/readhackernews/development/singularity/sass/partials/_comments.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/style.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_footer.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_fonts.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_login.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_inputs.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_comments.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_titles.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_header.scss",
+		"/Users/labibrahman/Git/readhackernews/manifest.json",
+		"/Users/labibrahman/Git/readhackernews/singularity/javascripts/swapcss.js",
+		"/Users/labibrahman/Git/readhackernews/.gitignore",
+		"/Users/labibrahman/Git/readhackernews/singularity/sass/partials/_replying.scss",
+		"/Users/labibrahman/Git/readhackernews/singularity/config.rb",
+		"/Users/labibrahman/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/labibrahman/Library/Application Support/Sublime Text 3/Packages/User/Sass.sublime-settings",
+		"/Users/labibrahman/Git/readhackernews/singularity/.sass-cache/99f4d796840d9a2434ddb85eb4397e16b1c50ac1/_titles.scssc",
+		"/Users/labibrahman/Git/readhackernews/singularity/.sass-cache/99f4d796840d9a2434ddb85eb4397e16b1c50ac1/_header.scssc",
+		"/Users/labibrahman/Git/readhackernews/singularity/.sass-cache/3dda4c629f514e7118b08feb0f91501e042e6b1b/_helpers.scssc",
+		"/Users/labibrahman/Git/readhackernews/singularity/.sass-cache/e6ac66d50af71169c61158e7268dc87cc4859b2a/_add.scssc",
+		"/Users/labibrahman/Git/readhackernews/testpages/newslogin.html",
+		"/Users/labibrahman/Git/readhackernews/singularity/.sass-cache/35c21ad77eb15ba91eff47a70807a7351958359e/_layout.scssc"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name-and-tagline",
+			"hover",
+			"has_mobile_fu",
+			"cookies",
+			"cookie",
+			"THE_SECRET_PASSWORD",
+			".js",
+			"SECRET_KEY_BASE",
+			"encryption",
+			"encryption.rb",
+			"THE_SECRET_PASSWORD",
+			"password",
+			"absolute",
+			"getUserhome",
+			"settings.",
+			"saved_sync_data",
+			"readSettings",
+			"settings_file",
+			"saveSettings",
+			"settings_file",
+			".dropbox_settings",
+			"settings_file",
+			"y9soi7amn2op209",
+			"json",
+			"settings_path",
+			"settings",
+			"sync",
+			"saved_sync_data",
+			"listlocalfiles",
+			"settings.app_key",
+			"60em",
+			"45em",
+			"30em",
+			"'Charter'",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"charter",
+			"Charter",
+			"Fira",
+			"static.altseeapp.com.s3-website-us-east-1.amazonaws.com/typefaces/Fira",
+			"ff6600",
+			"ff600",
+			"font[",
+			"font[color",
+			"40rem",
+			"table[",
+			"search_character",
+			"character ==",
+			"character",
+			"i ==",
+			"i",
+			"comhead",
+			" @include breakpoint",
+			"main",
+			"tagline",
+			"extra",
+			"'headline'",
+			"$grids: ",
+			"a.",
+			"class",
+			"Class",
+			"class",
+			"$grids: add-grid",
+			"background",
+			"logo",
+			".wrapper-dropdown-1",
+			".dropdown",
+			"dropdown",
+			"wrapper-dropdown-1",
+			"textarea[name",
+			"profile",
+			"style=\"height:2px",
+			"self post",
+			"self",
+			"singularity/",
+			"chrome-extension://__MSG_@@extension_id__",
+			"Sans",
+			"weight: 600",
+			"focus",
+			"input[",
+			"input",
+			"form[",
+			"form",
+			"form[",
+			"input[name=\"u\"]",
+			"input[name=\"u]",
+			"input[name='u']",
+			"para",
+			"padding",
+			"nofollow",
+			"visited",
+			"thread",
+			"between ",
+			"#title",
+			"color:#828282;",
+			"Source Sans Pro",
+			"font-size:",
+			"font-size: 10pt;",
+			"padding",
+			"SourceSansPro",
+			"..",
+			"SourceSansPro",
+			"chrome-extension://mjbgjgaeklaaabdkfibheghhfbnddmpd/singularity",
+			"__MSG_@@extension_id__",
+			"Source Sans Pro",
+			"..",
+			"SourceSansPro",
+			"!important",
+			"!important;",
+			"!important !important",
+			";",
+			"../t",
+			"regular-webfont",
+			"typefaces",
+			"typefaces/SourceSansPro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"table",
+			"tagline",
+			"'name-and-tagline'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1040,
+								1040
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 226.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5744,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										157,
+										173
+									],
+									[
+										456,
+										472
+									],
+									[
+										657,
+										673
+									],
+									[
+										773,
+										789
+									],
+									[
+										908,
+										924
+									],
+									[
+										1107,
+										1123
+									],
+									[
+										1306,
+										1322
+									],
+									[
+										1404,
+										1420
+									],
+									[
+										1447,
+										1463
+									],
+									[
+										1616,
+										1632
+									],
+									[
+										1754,
+										1770
+									],
+									[
+										1897,
+										1913
+									],
+									[
+										2012,
+										2028
+									],
+									[
+										2127,
+										2143
+									],
+									[
+										2168,
+										2184
+									],
+									[
+										2302,
+										2318
+									],
+									[
+										2444,
+										2460
+									],
+									[
+										2560,
+										2576
+									],
+									[
+										2674,
+										2690
+									],
+									[
+										2815,
+										2831
+									],
+									[
+										2958,
+										2974
+									],
+									[
+										3075,
+										3091
+									],
+									[
+										3205,
+										3221
+									],
+									[
+										3318,
+										3334
+									],
+									[
+										3431,
+										3447
+									],
+									[
+										3584,
+										3600
+									],
+									[
+										3722,
+										3738
+									],
+									[
+										3865,
+										3881
+									],
+									[
+										3980,
+										3996
+									],
+									[
+										4095,
+										4111
+									],
+									[
+										4118,
+										4134
+									],
+									[
+										4160,
+										4176
+									],
+									[
+										4294,
+										4310
+									],
+									[
+										4317,
+										4333
+									],
+									[
+										4460,
+										4476
+									],
+									[
+										4483,
+										4499
+									],
+									[
+										4600,
+										4616
+									],
+									[
+										4623,
+										4639
+									],
+									[
+										4765,
+										4781
+									],
+									[
+										4788,
+										4804
+									],
+									[
+										4883,
+										4899
+									],
+									[
+										5024,
+										5040
+									],
+									[
+										5167,
+										5183
+									],
+									[
+										5284,
+										5300
+									],
+									[
+										5307,
+										5323
+									],
+									[
+										5438,
+										5454
+									],
+									[
+										5551,
+										5567
+									],
+									[
+										5664,
+										5680
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "singularity/sass/partials/_text.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "singularity/sass/partials/_interaction.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 258.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "singularity/sass/partials/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1709,
+								1713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 447.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "singularity/sass/index.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/javascripts/jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95785,
+								95785
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*! jQuery v1.11.1 | (c) 2005, 2014 jQuery Foundat",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 5.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "singularity/sass/partials/_colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "vfa.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inter",
+				"singularity/sass/partials/_interaction.scss"
+			],
+			[
+				"colo",
+				"singularity/sass/partials/_colors.scss"
+			],
+			[
+				"inte",
+				"singularity/sass/partials/_interaction.scss"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"la",
+				"singularity/sass/partials/_layout.scss"
+			],
+			[
+				"color",
+				"singularity/sass/partials/_colors.scss"
+			],
+			[
+				"index.scs",
+				"singularity/sass/index.scss"
+			],
+			[
+				"tex",
+				"singularity/sass/partials/_text.scss"
+			],
+			[
+				"cookies",
+				"config/initializers/cookies_serializer.rb"
+			],
+			[
+				"nx",
+				"kotha_sync/markdown/drafts/nxlnotes.md"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"tri",
+				"lib/trigger.js"
+			],
+			[
+				"",
+				"Procfile"
+			],
+			[
+				"h",
+				"singularity/sass/hemingway.scss"
+			],
+			[
+				"hemi",
+				"singularity/sass/partials/_hemingway-text.scss"
+			],
+			[
+				"layou",
+				"singularity/sass/partials/_layout.scss"
+			],
+			[
+				"nlx",
+				"singularity/sass/nxl.scss"
+			],
+			[
+				"nxl",
+				"singularity/sass/partials/_nxl-headers.scss"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"nl",
+				"singularity/sass/nxl.scss"
+			],
+			[
+				"fon",
+				"development/singularity/sass/partials/_fonts.scss"
+			],
+			[
+				"head",
+				"development/singularity/sass/partials/_header.scss"
+			],
+			[
+				"read",
+				"development/singularity/sass/readhackernews.scss"
+			],
+			[
+				"styl",
+				"development/singularity/stylesheets/readhackernews.css"
+			],
+			[
+				"header",
+				"readhackernews/development/singularity/sass/partials/_header.scss"
+			],
+			[
+				"log",
+				"readhackernews/development/singularity/sass/partials/_login.scss"
+			],
+			[
+				"inpu",
+				"readhackernews/development/singularity/sass/partials/_inputs.scss"
+			],
+			[
+				"pr",
+				"development/singularity/sass/partials/_profile.scss"
+			],
+			[
+				"pro",
+				"development/singularity/sass/partials/_profile.scss"
+			],
+			[
+				"lo",
+				"singularity/sass/partials/_login.scss"
+			],
+			[
+				"l",
+				"singularity/sass/partials/_login.scss"
+			],
+			[
+				"foo",
+				"singularity/sass/partials/_footer.scss"
+			],
+			[
+				"st",
+				"singularity/sass/style.scss"
+			],
+			[
+				"foot",
+				"singularity/sass/partials/_footer.scss"
+			],
+			[
+				"com",
+				"singularity/sass/partials/_comments.scss"
+			],
+			[
+				"tit",
+				"singularity/sass/partials/_titles.scss"
+			],
+			[
+				"stt",
+				"singularity/sass/partials/_titles.scss"
+			],
+			[
+				"heade",
+				"singularity/sass/partials/_header.scss"
+			],
+			[
+				"ne",
+				"testpages/newslogin.html"
+			],
+			[
+				"s",
+				"singularity/sass/style.scss"
+			],
+			[
+				"rese",
+				"singularity/sass/partials/_reset.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

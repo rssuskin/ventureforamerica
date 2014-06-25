@@ -32,7 +32,7 @@ $vertical-hero-width: 33.333333%;
 .vertical-hero {
     display: none;
     @include breakpoint (60em) {
-        background-image: url('');
+        background-image: url('../../assets/images/yang-talking-background-slide.jpg');
         display: block;
         position: fixed;
         background-repeat: no-repeat;
@@ -57,7 +57,7 @@ main {
 }
 
 
-.name-and-tagline{
+.landing-page-text{
     background-color: #e5e5e5;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -77,7 +77,7 @@ main {
     }
 }
 
-.name-and-tagline > p {
+.landing-page-text > p {
     @include breakpoint(60em) {
         padding-top: 0.1em;
     }
@@ -115,7 +115,7 @@ img {
     }
 }
 
-.copy, .name-and-tagline {
+.copy, .landing-page-text {
     @include breakpoint(60em) {
         width: 80%;
     }

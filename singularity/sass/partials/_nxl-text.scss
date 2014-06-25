@@ -20,7 +20,7 @@ h3 {
         font-size: 1.55em;
     }
 }
-.name-and-tagline > p {
+.landing-page-text > p {
     @include breakpoint(60em) {
         padding-top: 2em;
     }

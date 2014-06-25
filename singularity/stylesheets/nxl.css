@@ -147,49 +147,49 @@ a {
   text-decoration: none;
 }
 
-.name-and-tagline > h1 {
+.landing-page-text > h1 {
   color: #1b1b1b;
   font-family: "Fira";
   font-weight: 700;
   font-size: 1.6em;
 }
 @media (min-width: 30em) {
-  .name-and-tagline > h1 {
+  .landing-page-text > h1 {
     font-size: 1.7em;
     line-height: 1.2em;
   }
 }
 @media (min-width: 45em) {
-  .name-and-tagline > h1 {
+  .landing-page-text > h1 {
     font-size: 2em;
   }
 }
 @media (min-width: 60em) {
-  .name-and-tagline > h1 {
+  .landing-page-text > h1 {
     font-size: 2.4em;
     line-height: 1.4em;
   }
 }
 
-.name-and-tagline > p, .name-and-tagline > li {
-  @inlcude name-and-tagline-text;
+.landing-page-text > p, .landing-page-text > li {
+  @inlcude landing-page-text-text;
   color: #1b1b1b;
   font-weight: 400;
   font-size: 1.3em;
 }
 @media (min-width: 30em) {
-  .name-and-tagline > p, .name-and-tagline > li {
+  .landing-page-text > p, .landing-page-text > li {
     font-size: 1.7em;
     line-height: 1.2em;
   }
 }
 @media (min-width: 45em) {
-  .name-and-tagline > p, .name-and-tagline > li {
+  .landing-page-text > p, .landing-page-text > li {
     font-size: 1.7em;
   }
 }
 @media (min-width: 60em) {
-  .name-and-tagline > p, .name-and-tagline > li {
+  .landing-page-text > p, .landing-page-text > li {
     font-size: 2.3em;
     line-height: 1.4em;
   }
@@ -241,7 +241,7 @@ h3 {
 }
 
 @media (min-width: 60em) {
-  .name-and-tagline > p, .name-and-tagline > li {
+  .landing-page-text > p, .landing-page-text > li {
     padding-top: 2em;
   }
 }
@@ -360,7 +360,7 @@ body, html {
 }
 @media (min-width: 60em) {
   .vertical-hero {
-    background-image: url("");
+    background-image: url("../../assets/images/yang-talking-background-slide.jpg");
     display: block;
     position: fixed;
     background-repeat: no-repeat;
@@ -386,7 +386,7 @@ main {
   }
 }
 
-.name-and-tagline {
+.landing-page-text {
   background-color: #e5e5e5;
   padding-top: 2em;
   padding-bottom: 2em;
@@ -394,7 +394,7 @@ main {
   text-align: center;
 }
 @media (min-width: 60em) {
-  .name-and-tagline {
+  .landing-page-text {
     background-color: white;
     padding-top: 4em;
     text-align: left;
@@ -403,13 +403,13 @@ main {
   }
 }
 @media (min-width: 92em) {
-  .name-and-tagline {
+  .landing-page-text {
     padding-top: 7em;
   }
 }
 
 @media (min-width: 60em) {
-  .name-and-tagline > p, .name-and-tagline > li {
+  .landing-page-text > p, .landing-page-text > li {
     padding-top: 0.1em;
   }
 }
@@ -449,17 +449,17 @@ img {
 }
 
 @media (min-width: 60em) {
-  .copy, .name-and-tagline {
+  .copy, .landing-page-text {
     width: 80%;
   }
 }
 @media (min-width: 75em) {
-  .copy, .name-and-tagline {
+  .copy, .landing-page-text {
     width: 70%;
   }
 }
 @media (min-width: 90em) {
-  .copy, .name-and-tagline {
+  .copy, .landing-page-text {
     width: 60%;
   }
 }
