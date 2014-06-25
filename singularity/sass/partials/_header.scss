@@ -73,6 +73,11 @@ li {
 		background-color: black;
 		color: white;
 	}
+
+	&:hover {
+		padding: 1.2em;
+		background-color: $section-two;
+	}
 }
 
 // Responsive
@@ -111,6 +116,7 @@ li {
 		margin: 0;
 
 	}
+
 
 	nav:hover ul {
 

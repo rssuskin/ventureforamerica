@@ -489,6 +489,10 @@ li .current {
   background-color: black;
   color: white;
 }
+li:hover {
+  padding: 1.2em;
+  background-color: #cccccc;
+}
 
 @media only screen and (max-width: 640px) {
   header {
