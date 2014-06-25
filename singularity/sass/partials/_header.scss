@@ -12,12 +12,12 @@ header {
 
 #logo{
 
-	margin: 20px;
+	margin: 0.8em 1em 0 1em;
 	float: left;
 	width: 200px;
-	height: 40px;
+	height: 50px;
 	background-size: cover;
-	background: url(../../../assets/images/vfa-logo-fullcolor.png);
+	background: url(../../../assets/images/resized-header-logo.png);
 	display: block;
 
 }
@@ -66,18 +66,23 @@ li {
 			weight: 300;
 			size: 1.2em;
 		}
+
+		padding: 0.1em 0.5em 0.1em 0.5em;
+		&:hover {
+		background-color: $section-two;
+	}
 	}
 
 	.current {
-		padding: 1.2em;
 		background-color: black;
 		color: white;
+
+		&:hover {
+			background-color: black;
+		}
 	}
 
-	&:hover {
-		padding: 1.2em;
-		background-color: $section-two;
-	}
+
 }
 
 // Responsive
