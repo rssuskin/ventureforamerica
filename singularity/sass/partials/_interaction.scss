@@ -1,0 +1,68 @@
+
+.twitter {
+    color: $twitter;
+}
+
+.facebook {
+    color: $facebook;
+    &:hover{
+        background-color: $facebook-bg;
+    }
+}
+
+.github {
+    color: $github;
+    &:hover{
+        background-color: $section-three;
+    }
+}
+
+#learnmore {
+    a {
+        padding: 0.6em 0.8em 0.6em 0.8em;
+        border-color: $section-one;
+        background-color: $section-one;
+        &:hover {
+            p {color: white;}
+            border-color: $text;
+            background-color: $text;
+        }
+    }
+}
+
+#supportvfa {
+    a {
+        padding: 0.6em 0.7em 0.6em 0.7em;
+        border-color: $vfa-blue-one;
+        background-color: $vfa-blue-one;
+        &:hover {
+            border-color: $vfa-blue-two;
+            background-color: $vfa-blue-two;
+        }
+
+        p {
+            color: white;
+        }
+    }  
+}
+
+#applynow {
+    a {
+        padding: 0.6em 1.1em 0.6em 1.1em;
+        border-color: $vfa-red-one;
+        background-color: $vfa-red-one;
+        &:hover {
+            border-color: $vfa-red-two;
+            background-color: $vfa-red-two;
+        }
+
+        p {
+            color: white;
+        }
+    }
+}
+
+
+
+
+

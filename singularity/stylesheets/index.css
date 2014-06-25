@@ -111,12 +111,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   font-style: italic;
 }
 main {
-  font-family: "Source Sans Pro";
+  font-family: "Fira";
   font-weight: 400;
 }
 
 p {
-  font-family: "Lato";
+  font-family: "Fira";
   font-weight: 400;
   font-size: 1.15em;
   color: #1b1b1b;
@@ -144,10 +144,6 @@ p b {
 a {
   font-weight: 400;
   text-decoration: none;
-  color: #0056ab;
-}
-a:hover {
-  background-color: #e0efff;
 }
 
 .name-and-tagline > h1 {
@@ -219,31 +215,6 @@ a:hover {
   }
 }
 
-.twitter {
-  color: #4099ff;
-}
-
-.facebook {
-  color: #3b5998;
-}
-.facebook:hover {
-  background-color: #bbc8e4;
-}
-
-.github {
-  color: #042029;
-}
-.github:hover {
-  background-color: #f3f3f3;
-}
-
-#getintouch > p {
-  color: #1b1b1b;
-}
-#getintouch > p:hover {
-  background-color: #dedede;
-}
-
 p, h1, h2, h3, h4, h5, img {
   -moz-transition: all 200ms linear;
   -o-transition: all 200ms linear;
@@ -268,7 +239,7 @@ body, html {
 }
 @media (min-width: 60em) {
   .vertical-hero {
-    background-image: url("http://www.labibrahman.com/ventureforamerica/assets/yang-thousand-jobs.jpeg");
+    background-image: url("");
     display: block;
     position: fixed;
     background-repeat: no-repeat;
@@ -372,14 +343,91 @@ img {
   }
 }
 
-#getintouch > p {
+#learnmore, #supportvfa, #applynow {
+  display: inline-block;
+  padding: 0 2em 0 0;
+}
+
+#learnmore > a {
   display: inline-block;
   margin-top: 1em;
   margin-bottom: 1em;
-  border: 2px solid #1b1b1b;
+  border: 5px solid;
   padding: 0.5em;
   padding-top: 0.7em;
 }
-#getintouch > p:hover {
-  background-color: #dedede;
+
+#supportvfa > a {
+  display: inline-block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 5px solid;
+  padding: 0.5em;
+  padding-top: 0.7em;
+}
+
+#applynow > a {
+  display: inline-block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 5px solid;
+  padding: 0.5em;
+  padding-top: 0.7em;
+}
+
+.twitter {
+  color: #4099ff;
+}
+
+.facebook {
+  color: #3b5998;
+}
+.facebook:hover {
+  background-color: #bbc8e4;
+}
+
+.github {
+  color: #042029;
+}
+.github:hover {
+  background-color: #f3f3f3;
+}
+
+#learnmore a {
+  padding: 0.6em 0.8em 0.6em 0.8em;
+  border-color: #d9d9d9;
+  background-color: #d9d9d9;
+}
+#learnmore a:hover {
+  border-color: #1b1b1b;
+  background-color: #1b1b1b;
+}
+#learnmore a:hover p {
+  color: white;
+}
+
+#supportvfa a {
+  padding: 0.6em 0.7em 0.6em 0.7em;
+  border-color: #0045b5;
+  background-color: #0045b5;
+}
+#supportvfa a:hover {
+  border-color: #002868;
+  background-color: #002868;
+}
+#supportvfa a p {
+  color: white;
+}
+
+#applynow a {
+  padding: 0.6em 1.1em 0.6em 1.1em;
+  border-color: #d43f3a;
+  background-color: #d43f3a;
+}
+#applynow a:hover {
+  border-color: #bf0a30;
+  background-color: #bf0a30;
+}
+#applynow a p {
+  color: white;
 }

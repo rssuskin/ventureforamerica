@@ -1,13 +1,13 @@
 main {
     font: {
-        family: "Source Sans Pro";
+        family: "Fira";
         weight: 400;
     }
 }
 
 p {
     font: {
-        family: "Lato";
+        family: "Fira";
         weight: 400;
         size: 1.15em;
     }
@@ -30,13 +30,10 @@ p {
     }
 }
 
+
 a {
     font-weight: 400;
     text-decoration: none;
-    color: $link;
-    &:hover {
-        background-color: $link-bg;
-    }
 }
 
 
@@ -100,32 +97,3 @@ a {
         font-size: 1.8em;
     }
 }
-
-.twitter {
-    color: $twitter;
-}
-
-.facebook {
-    color: $facebook;
-    &:hover{
-        background-color: $facebook-bg;
-    }
-}
-
-.github {
-    color: $github;
-    &:hover{
-        background-color: $section-three;
-    }
-}
-
-#getintouch > p {
-    color: $text;
-    &:hover {
-        background-color: $bg;
-    }
-}
-
-
-
-
